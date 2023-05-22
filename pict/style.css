@@ -1,0 +1,25 @@
+
+.header{
+    width:100%;
+    padding-top:25px;
+    margin-top: 15px;
+    margin-left: 15px;
+    margin-right: 15px;
+    padding-bottom:25px;
+    padding-right: 25px;
+    background-color: lightgray;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.block{
+  display: block;
+  width: 89%;
+  border: none;
+  background-color: #044caa;
+  padding: 14px 28px;
+  font-size: 16px;
+  cursor: pointer;
+  text-align: center;
+  color: white;
+} 
+
